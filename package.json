@@ -1,0 +1,29 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "a resume/CV building application",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IAmAnubhavSaini/cv.git"
+  },
+  "keywords": [
+    "cv",
+    "resume",
+    "html",
+    "css",
+    "javascript",
+    "es6",
+    "ecmascript",
+    "es2015"
+  ],
+  "author": "Anubhav Saini <IAmAnubhavSaini@GMail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IAmAnubhavSaini/cv/issues"
+  },
+  "homepage": "https://github.com/IAmAnubhavSaini/cv#readme"
+}
